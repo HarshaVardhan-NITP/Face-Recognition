@@ -3,3 +3,4 @@
 # This Application is scripted in python 
 # Used pre Trained Multi tasking cascading convolutional neural networks for face detection.
 # Used Pre Trained Face Recognition for recognition of faces.
+# Also used Facial LandMarks for special Drawings on Faces :).
